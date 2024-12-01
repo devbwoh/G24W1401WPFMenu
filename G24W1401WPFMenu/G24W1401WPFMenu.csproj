@@ -8,4 +8,12 @@
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="Images\짐mini.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Images\짐mini.jpg" />
+  </ItemGroup>
+
 </Project>
